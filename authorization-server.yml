@@ -1,0 +1,5 @@
+lucky-word: "Sergio"
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8002/eureka/
