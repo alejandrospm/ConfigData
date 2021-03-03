@@ -5,4 +5,4 @@ eureka:
  instance:
   instanceId: ${spring.application.name}:${random.value}
 server:
-  port: ${PORT:${SERVER_PORT:0}}
+ port: ${PORT:${SERVER_PORT:0}}
